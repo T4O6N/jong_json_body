@@ -2,7 +2,7 @@
     {
         "id": 1,
         "uuid": "35058d65-2c2d-4039-bd8b-1c43660703a2",
-        "order_booking_ticket_id": "789e5e56-49c3-4697-8372-793c06ff948c",
+        "booking_ticket_id": "789e5e56-49c3-4697-8372-793c06ff948c",
         "first_name": "John",
         "laste_name": "Sena",
         "email": "john_sena@gmail.com",
@@ -16,7 +16,7 @@
     {
         "id": 2,
         "uuid": "22058d65-2c2d-4039-bd8b-1c43660707a3",
-        "order_booking_ticket_id": "789e5e56-49c3-4697-8372-793c06ff948c",
+        "booking_ticket_id": "789e5e56-49c3-4697-8372-793c06ff948c",
         "first_name": "Kilaeng",
         "laste_name": "Insixiengmai",
         "email": "kilaeng_insixiengmai@gmail.com",
@@ -30,7 +30,7 @@
     {
         "id": 3,
         "uuid": "db68f5c0-7782-4ca4-b380-1232f662e43e",
-        "order_booking_ticket_id": "b0b27d56-f9ea-4871-b6da-9e252cba1962",
+        "booking_ticket_id": "b0b27d56-f9ea-4871-b6da-9e252cba1962",
         "first_name": "Phon",
         "laste_name": "Bounmachanh",
         "email": "phon_bounmachanh@gmail.com",
@@ -44,7 +44,7 @@
     {
         "id": 4,
         "uuid": "b0e3c099-97d3-4104-9e56-559240bb45f3",
-        "order_booking_ticket_id": "b0b27d56-f9ea-4871-b6da-9e252cba1962",
+        "booking_ticket_id": "b0b27d56-f9ea-4871-b6da-9e252cba1962",
         "first_name": "Big",
         "laste_name": "Phommachanh",
         "email": "big_phommachanh@gmail.com",
