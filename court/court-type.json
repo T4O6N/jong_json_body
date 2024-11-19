@@ -1,8 +1,9 @@
 [
     {
         "id": 1,
+        "uuid": "4c5764a2-1132-4c83-82dc-333835ccf351",
         "name_la": "ກິລາຕີດອກປີກໄກ່",
-        "name_en": "Badminton",
+        "name_en": "Badminton Sport",
         "description": "Indoor badminton sport",
         "is_active": true,
         "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
@@ -12,9 +13,10 @@
     },
     {
         "id": 2,
+        "uuid": "70d5bf01-d7e5-4770-be71-c7a9186f35a8",
         "name_la": "ກິລາເຕະບານ",
         "name_en": "Football",
-        "description": "Football sport",
+        "description": "Football Sport",
         "is_active": true,
         "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
         "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",

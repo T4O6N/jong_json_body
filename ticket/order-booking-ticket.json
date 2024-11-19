@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "uuid": "789e5e56-49c3-4697-8372-793c06ff948c",
+        "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+        "ticket_id": "39b40651-29d0-4172-8c28-56306aed63e9",
+        "coupon_id": "5f1be72a-6525-4c60-8827-625a293af0a2",
+        "available_date": "2024-11-14T08:00:00Z",
+        "available_time": "08:00 AM - 05:00 PM",
+        "booking_fee": 5000,
+        "total_price": 60000,
+        "order_status": "ORDERED",
+        "order_payment_status": "PENDING",
+        "order_payment_type": "onepay",
+        "is_used": false,
+        "created_by": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "updated_by": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "uuid": "b0b27d56-f9ea-4871-b6da-9e252cba1962",
+        "user_id": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "ticket_id": "39b40651-29d0-4172-8c28-56306aed63e9",
+        "coupon_id": "5f1be72a-6525-4c60-8827-625a293af0a2",
+        "available_date": "2024-11-14T08:00:00Z",
+        "available_time": "08:00 AM - 05:00 PM",
+        "booking_fee": 10000,
+        "total_price": 120000,
+        "order_status": "ORDERED",
+        "order_payment_status": "PENDING",
+        "order_payment_type": "ldbtrust",
+        "is_used": false,
+        "created_by": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "updated_by": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]

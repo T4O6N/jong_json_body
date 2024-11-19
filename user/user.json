@@ -1,12 +1,26 @@
-{
-    "id": 1,
-    "uuid": "19058d65-2c2d-4039-bd8b-1c43660703a2",
-    "email": "john_doe@gmail.com",
-    "phone": "2055736369",
-    "password": "Johndoe1234",
-    "is_active": true,
-    "is_update_info": false,
-    "latest_logged_in": "2024-11-14T09:00:00Z",
-    "created_at": "2024-11-14T09:00:00Z",
-    "updated_at": "2024-11-14T09:00:00Z"
-}
+[
+    {
+        "id": 1,
+        "uuid": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+        "email": "john_doe@gmail.com",
+        "phone": "2055736369",
+        "password": "Johndoe1234",
+        "is_active": true,
+        "is_update_info": false,
+        "latest_logged_in": "2024-11-14T09:00:00Z",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "uuid": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "email": "emily_doe@gmail.com",
+        "phone": "2059296742",
+        "password": "Emilydoe1234",
+        "is_active": true,
+        "is_update_info": false,
+        "latest_logged_in": "2024-11-14T09:00:00Z",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]

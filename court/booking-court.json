@@ -1,15 +1,36 @@
-{
-    "id": 1,
-    "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
-    "court_id": 1,
-    "coupon_id": 1,
-    "start_time": "2024-11-15T10:00:00Z",
-    "end_time": "2024-11-15T11:00:00Z",
-    "status": "CONFIRMED",
-    "total_price": 60000,
-    "is_used": false,
-    "created_by": "19058d65-2c2d-4039-bd8b-1c43660703a2",
-    "updated_by": "19058d65-2c2d-4039-bd8b-1c43660703a2",
-    "created_at": "2024-11-14T09:00:00Z",
-    "updated_at": "2024-11-14T09:00:00Z"
-}
+[
+    {
+        "id": 1,
+        "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+        "court_id": "42aaf4d6-7d68-4827-b253-bf54a38b6716",
+        "coupon_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+        "start_time": "2024-11-15T10:00:00Z",
+        "end_time": "2024-11-15T11:00:00Z",
+        "total_price": 120000,
+        "booking_status": "BOOKED",
+        "booking_payment_status": "PENDING",
+        "booking_payment_type": "onepay",
+        "is_used": false,
+        "created_by": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+        "updated_by": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 1,
+        "user_id": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "court_id": "1fc9acb9-b56f-4ca4-9dcf-cb8ed937ea06",
+        "coupon_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+        "start_time": "2024-11-15T10:00:00Z",
+        "end_time": "2024-11-15T11:00:00Z",
+        "total_price": 300000,
+        "booking_status": "BOOKED",
+        "booking_payment_status": "PENDING",
+        "booking_payment_type": "ldbtrust",
+        "is_used": false,
+        "created_by": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "updated_by": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]
