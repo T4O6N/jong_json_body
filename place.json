@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "uuid": "8012bfbe-09c5-47f9-8262-3ee07373fc11",
+        "name_la": "ຕາດກວາງຊີ",
+        "name_en": "Kuang Si Waterfall",
+        "address": "ບ້ານທ່າແປ້ນ ນະຄອນຫຼວງພະບາງ",
+        "contact_info": "2098237466",
+        "owner_id": "25058d65-2c2d-4039-bd8b-1c43660703a2",
+        "is_active": true,
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "uuid": "39b40651-29d0-4172-8c28-56306aed63e9",
+        "name_la": "ຕາດຟານ",
+        "name_en": "Tad Fane Waterfall",
+        "address": "ບ້ານຫຼັກ 38 ເມືອງປາກຊ່ອງ ແຂວງຈໍາປາສັກ",
+        "contact_info": "2056688224",
+        "owner_id": "15058d65-2c2d-4039-bd8b-2c43660603a5",
+        "is_active": true,
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]

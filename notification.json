@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+    "title": "Booking Confirmation",
+    "body": "Your court booking has been confirmed.",
+    "target_screen": "Booking Details",
+    "notification_type_id": 1,
+    "image": {
+        "url": "https://example.com/image.jpg"
+    },
+    "expired_date": "2024-12-14T09:00:00Z",
+    "is_read": false,
+    "sent_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+    "created_at": "2024-11-14T09:00:00Z"
+}

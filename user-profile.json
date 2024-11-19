@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "uuid": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+    "full_name": "John Doe",
+    "email": "john_doe@gmail.com",
+    "phone": "2055736369",
+    "date_of_birth": "2000-07-26 00:00:00.000",
+    "province": 1,
+    "district": 2,
+    "village": "Jrommany",
+    "point": 5000,
+    "userId": 1,
+    "loginType": "manual",
+    "is_active": true,
+    "is_update_info": false,
+    "latest_logged_in": "2024-11-14T09:00:00Z",
+    "created_at": "2024-11-14T09:00:00Z",
+    "updated_at": "2024-11-14T09:00:00Z"
+    }

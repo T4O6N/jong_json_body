@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "uuid": "39b40651-29d0-4172-8c28-56306aed63e9",
+        "place_id": 1,
+        "name": "Waterfall Ticket",
+        "description": "Entry ticket for Kuang Si waterfall",
+        "ticket_type_id": 1,
+        "available_date": "2024-11-14T08:00:00Z",
+        "available_time": "08:00 AM - 05:00 PM",
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 1,
+        "uuid": "cbd7dfd3-9a08-4043-9564-f6f12178be85",
+        "place_id": 2,
+        "name": "Waterfall Ticket",
+        "description": "Entry ticket for Tad Fane waterfall",
+        "ticket_type_id": 1,
+        "available_date": "2024-11-14T08:00:00Z",
+        "available_time": "08:00 AM - 05:00 PM",
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]

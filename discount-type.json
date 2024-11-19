@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name_la": "ສ່ວນຫຼຸດຈອງເດີ່ນ",
+        "name_en": "Court Booking Discount",
+        "description": "ສ່ວນຫຼຸດສໍາລັບຈອງເດີ່ນ",
+        "is_active": true,
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "name_la": "ສ່ວນຫຼຸດຈອງປີ້",
+        "name_en": "Ticket Booking Discount",
+        "description": "ສ່ວນຫຼຸດສໍາລັບຈອງປີ້",
+        "is_active": true,
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]
