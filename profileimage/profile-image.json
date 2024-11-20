@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+        "profile_image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/jong-5aa16.appspot.com/o/user_profile%2F1730795405524.jpg?alt=media&token=5c67ac45-966b-4df7-bea8-32007cfaf3ab",
+            "path": "/v1/profile-image/b7caf870-f09a-4393-a46c-7b2fc77069e6",
+            "filename": "1730795405524.jpg"
+          },
+        "is_active": true,
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "user_id": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "profile_image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/jong-5aa16.appspot.com/o/user_profile%2F1730795405524.jpg?alt=media&token=5c67ac45-966b-4df7-bea8-32007cfaf3ab",
+            "path": "/v1/profile-image/b7caf870-f09a-4393-a46c-7b2fc77069e6",
+            "filename": "2030795405524.jpg"
+          },
+        "is_active": true,
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]

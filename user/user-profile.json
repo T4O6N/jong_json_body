@@ -6,11 +6,51 @@
         "email": "john_doe@gmail.com",
         "phone": "2055736369",
         "date_of_birth": "2002-07-26 00:00:00.000",
-        "province": 1,
-        "district": 2,
         "village": "Jrommany",
+        "province": {
+            "id": 1,
+            "name_la": "ນະຄອນຫຼວງວຽງຈັນ",
+            "name_en": "Vientiane Prefecture",
+            "created_at": "2024-11-14T09:00:00Z",
+            "updated_at": "2024-11-14T09:00:00Z"
+        },
+        "district": {
+            "id": 1,
+            "name_la": "ເມືອງໄຊເສດຖາ",
+            "name_en": "Xaysetha District",
+            "created_at": "2024-11-14T09:00:00Z",
+            "updated_at": "2024-11-14T09:00:00Z"
+        },
         "lat": "17.976448",
         "lng": "102.635383",
+        "profile_image": [
+            {
+                "id": 1,
+                "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+                "profile_image": {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/jong-5aa16.appspot.com/o/user_profile%2F1730795405524.jpg?alt=media&token=5c67ac45-966b-4df7-bea8-32007cfaf3ab",
+                    "path": "/v1/profile-image/b7caf870-f09a-4393-a46c-7b2fc77069e6",
+                    "filename": "1730795405524.jpg"
+                  },
+                "is_active": true,
+                "created_at": "2024-11-14T09:00:00Z",
+                "updated_at": "2024-11-14T09:00:00Z"
+            }
+        ],
+        "notification_token": [
+            {
+                "id": 2,
+                "user_id": "8c601c71-1036-4667-837a-79bc61221fdb",
+                "fcm_token": "fMAN-N-i3U6pkbw4kRpmw6:APA91bFooUm8Ct0Ap2vSmpYJtq6lJJPd59qSrFJ-U_yq1hJ66WLxdVlewQwSI-PuhR_m8eeqwdyGg_Rc6nbk6a9hFuAULSbSJdLHvR-W6vEMHLvxsdwOuS3-E2_Uio61P6rCgIx-GLzt",
+                "device_type": "Darwin",
+                "phone": "2059296742",
+                "os_type": "IOS",
+                "device_model": "DF294379-70AB-4D96-B2E4-09A3EFA87191",
+                "expire_date": "2024-12-20T09:00:00Z",
+                "created_at": "2024-11-14T09:00:00Z",
+                "updated_at": "2024-11-14T09:00:00Z"
+            }
+        ],
         "point": 5000,
         "loginType": "manual",
         "is_active": true,
@@ -27,11 +67,51 @@
         "email": "emily_doe@gmail.com",
         "phone": "2059296742",
         "date_of_birth": "2002-07-21 00:00:00.000",
-        "province": 2,
-        "district": 5,
         "village": "Phonpapao",
+        "province": {
+            "id": 1,
+            "name_la": "ນະຄອນຫຼວງວຽງຈັນ",
+            "name_en": "Vientiane Prefecture",
+            "created_at": "2024-11-14T09:00:00Z",
+            "updated_at": "2024-11-14T09:00:00Z"
+        },
+        "district": {
+            "id": 1,
+            "name_la": "ເມືອງໄຊເສດຖາ",
+            "name_en": "Xaysetha District",
+            "created_at": "2024-11-14T09:00:00Z",
+            "updated_at": "2024-11-14T09:00:00Z"
+        },
         "lat": "17.976448",
         "lng": "102.635383",
+        "profile_image": [
+            {
+                "id": 1,
+                "user_id": "8c601c71-1036-4667-837a-79bc61221fdb",
+                "profile_image": {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/jong-5aa16.appspot.com/o/user_profile%2F1730795405524.jpg?alt=media&token=5c67ac45-966b-4df7-bea8-32007cfaf3ab",
+                    "path": "/v1/profile-image/b7caf870-f09a-4393-a46c-7b2fc77069e6",
+                    "filename": "2030795405524.jpg"
+                  },
+                "is_active": true,
+                "created_at": "2024-11-14T09:00:00Z",
+                "updated_at": "2024-11-14T09:00:00Z"
+            }
+        ],
+        "notification_token": [
+            {
+                "id": 2,
+                "user_id": "8c601c71-1036-4667-837a-79bc61221fdb",
+                "fcm_token": "fMAN-N-i3U6pkbw4kRpmw6:APA91bFooUm8Ct0Ap2vSmpYJtq6lJJPd59qSrFJ-U_yq1hJ66WLxdVlewQwSI-PuhR_m8eeqwdyGg_Rc6nbk6a9hFuAULSbSJdLHvR-W6vEMHLvxsdwOuS3-E2_Uio61P6rCgIx-GLzt",
+                "device_type": "Darwin",
+                "phone": "2059296742",
+                "os_type": "IOS",
+                "device_model": "DF294379-70AB-4D96-B2E4-09A3EFA87191",
+                "expire_date": "2024-12-20T09:00:00Z",
+                "created_at": "2024-11-14T09:00:00Z",
+                "updated_at": "2024-11-14T09:00:00Z"
+            }
+        ],
         "point": 10000,
         "loginType": "google",
         "is_active": true,
