@@ -7,6 +7,7 @@
         "image": {
             "url": "https://example.com/image.jpg"
         },
+        "description": "ກະກຽມການຈອງເດີ່ນຂອງທ່ານ",
         "expired_date": "2024-12-14T09:00:00Z",
         "is_read": false,
         "sent_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
@@ -20,6 +21,7 @@
         "image": {
             "url": "https://example.com/image.jpg"
         },
+        "description": "ກະກຽມການສັ່ງສິນຄ້າຂອງທ່ານ",
         "expired_date": "2024-12-14T09:00:00Z",
         "is_read": false,
         "sent_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
@@ -33,6 +35,7 @@
         "image": {
             "url": "https://example.com/image.jpg"
         },
+        "description": "ກະກຽມການຈອງປີ້ຂອງທ່ານ",
         "expired_date": "2024-12-14T09:00:00Z",
         "is_read": false,
         "sent_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
