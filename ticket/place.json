@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name_la": "ນໍ້າຕົກ",
+        "name_en": "Waterfall ticket",
+        "description": "Ticket for access to waterfall",
+        "lat": "17.976448",
+        "lng": "102.635383",
+        "is_active": true,
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]

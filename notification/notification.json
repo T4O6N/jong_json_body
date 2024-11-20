@@ -1,10 +1,9 @@
 [
     {
         "id": 1,
-        "uuid": "eb02bba4-ef5a-4895-8815-73ddd9cef7ec",
-        "title": "Booking Confirmation",
+        "title": "Court Booking Confirmation",
         "body": "Your court booking has been confirmed.",
-        "target_screen": "Booking Details",
+        "target_screen": "Booking notification screen",
         "image": {
             "url": "https://example.com/image.jpg"
         },
@@ -15,10 +14,9 @@
     },
     {
         "id": 2,
-        "uuid": "89768a97-deb2-4237-bc2f-151dd14a4f05",
-        "title": "Booking Confirmation",
-        "body": "Your court booking has been confirmed.",
-        "target_screen": "Booking Details",
+        "title": "Product Order Confirmation",
+        "body": "Your product order has been confirmed.",
+        "target_screen": "Order notification screen",
         "image": {
             "url": "https://example.com/image.jpg"
         },
@@ -29,8 +27,7 @@
     },
     {
         "id": 3,
-        "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
-        "title": "Booking Confirmation",
+        "title": "Ticket Booking Confirmation",
         "body": "Your court booking has been confirmed.",
         "target_screen": "Booking Details",
         "image": {

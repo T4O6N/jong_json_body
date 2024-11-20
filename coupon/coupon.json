@@ -1,10 +1,9 @@
 [
     {
         "id": 1,
-        "uuid": "19058d65-2c2d-4039-bd8b-1c43660703a2",
         "code": "DISCOUNT-SPORT-CODE",
         "discount_amount": 20000,
-        "discount_type_id": "5f1be72a-6525-4c60-8827-625a293af0a2",
+        "discount_type_id": 1,
         "usage_limit": 10,
         "times_used": 0,
         "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
@@ -14,10 +13,9 @@
     },
     {
         "id": 2,
-        "uuid": "80650b56-97c3-4359-bf62-07c21c966826",
         "code": "DISCOUNT-PRODUCT-DISCOUNT",
         "discount_amount": 30000,
-        "discount_type_id": "fcab708d-7d4d-480b-8b4b-efe529888489",
+        "discount_type_id": 2,
         "usage_limit": 10,
         "times_used": 0,
         "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
@@ -27,10 +25,9 @@
     },
     {
         "id": 3,
-        "uuid": "13f31669-4dae-44e8-ae15-fd6b5de60a52",
         "code": "DISCOUNT-TICKET-CODE",
         "discount_amount": 10000,
-        "discount_type_id": "5f1be72a-6525-4c60-8827-625a293af0a2",
+        "discount_type_id": 3,
         "usage_limit": 5,
         "times_used": 0,
         "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",

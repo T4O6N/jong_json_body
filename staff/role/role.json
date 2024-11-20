@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "uuid": "4804677b-9f4e-40c4-8adb-9b7b48b3eb4c",
+        "role_name": "Admin",
+        "description": "Can access all system features",
+        "is_active": true,
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "uuid": "3f660549-ce31-42c7-bdcb-35b6e8a146ce",
+        "role_name": "Staff",
+        "description": "Can access some system features",
+        "is_active": true,
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]

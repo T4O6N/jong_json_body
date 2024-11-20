@@ -28,7 +28,7 @@
         "province": 2,
         "district": 5,
         "village": "Phonpapao",
-        "point": 5000,
+        "point": 10000,
         "userId": 1,
         "loginType": "google",
         "is_active": true,

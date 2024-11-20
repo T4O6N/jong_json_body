@@ -1,0 +1,38 @@
+[
+    {
+        "id": 2,
+        "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+        "logout_time": "16:00",
+        "logout_date": "2024-11-14T09:00:00Z",
+        "device_id": "AP31.240517.022",
+        "device_info": "OnePlus OnePlus8Pro",
+        "operating_system": "Android 15",
+        "ip": "115.84.87.182, 172.69.227.153, 15.0.30.142",
+        "token": "fMvMcAZf30-OkHUIb4ukdS:APA91bHl9rgkxPNxbL47IqTpUQM8cuwTyXza0J6QNOcoGC_qtyXNXVOhq-4eqFogwZntL1OPr84_c-1N4zAnBQWxRz9jeJ47EKaIc586jMBIm3HC6834KEXIIFKIAj24OfXV7MX3rKVg",
+        "refresh_token": "kMvMcAZf30-OkHUIb4ukdS:APA91bHl9rgkxPNxbL47IqTpUQM8cuwTyXza0J6QNOcoGC_qtyXNXVOhq-4eqFogwZntL1OPr84_c-1N4zAnBQWxRz9jeJ47EKaIc586jMBIm3HC6834KEXIIFKIAj24OfXV7MX3rKVg",
+        "logout_version": "1.0.1",
+        "logout_type": "normal",
+        "is_active": false,
+        "is_deleted": false,
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "user_id": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "login_time": "17:00",
+        "login_date": "2024-11-14T10:00:00Z",
+        "device_id": "DF294379-70AB-4D96-B2E4-09A3EFA87191",
+        "device_info": "iPhone 15 Pro Max",
+        "operating_system": "18.0",
+        "ip": "115.84.115.155, 172.69.227.156, 15.0.4.102",
+        "token": "klvMcAZf30-OkHUIb4ukdS:APA91bHl9rgkxPNxbL47IqTpUQM8cuwTyXza0J6QNOcoGC_qtyXNXVOhq-4eqFogwZntL1OPr84_c-1N4zAnBQWxRz9jeJ47EKaIc586jMBIm3HC6834KEXIIFKIAj24OfXV7MX3rKVg",
+        "refresh_token": "lkvMcAZf30-OkHUIb4ukdS:APA91bHl9rgkxPNxbL47IqTpUQM8cuwTyXza0J6QNOcoGC_qtyXNXVOhq-4eqFogwZntL1OPr84_c-1N4zAnBQWxRz9jeJ47EKaIc586jMBIm3HC6834KEXIIFKIAj24OfXV7MX3rKVg",
+        "login_version": "1.0.1",
+        "login_type": "normal",
+        "is_active": false,
+        "is_deleted": false,
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]

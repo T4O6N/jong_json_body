@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "uuid": "42aaf4d6-7d68-4827-b253-bf54a38b6716",
-        "court_type_id": "4c5764a2-1132-4c83-82dc-333835ccf351",
+        "serial": "C01",
+        "stadium_type_id": 1,
         "name_la": "ເດີ່ນຕີດອກປີກໄກ່ ສະໂມສອນເສດຖາ",
-        "name_en": "Badminton Court Saysettha Stadium",
+        "name_en": "Badminton court saysettha stadium",
         "address": "ບ້ານບຶງຂະຫຍອງ ເມືອງສີສັດຕະນາກ ແຂວງນະຄອນຫຼວງວຽງຈັນ",
         "contact_info": "2051774535",
         "hourly_rate": 60000,
@@ -17,10 +17,10 @@
     },
     {
         "id": 2,
-        "uuid": "1fc9acb9-b56f-4ca4-9dcf-cb8ed937ea06",
-        "court_type_id": "70d5bf01-d7e5-4770-be71-c7a9186f35a8",
+        "serial": "C02",
+        "stadium_type_id": 2,
         "name_la": "ເດີ່ນເຕະບານ Ferrari",
-        "name_en": "Ferrari Football Stadium",
+        "name_en": "Ferrari football stadium",
         "address": "ບ້ານບຶງຂະຫຍອງ ເມືອງສີສັດຕະນາກ ແຂວງນະຄອນຫຼວງວຽງຈັນ",
         "contact_info": "2075645364",
         "hourly_rate": 150000,

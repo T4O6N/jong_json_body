@@ -2,7 +2,7 @@
     {
         "id": 1,
         "image_url": [{"url": "https://firebasestorage.googleapis.com/v0/b/jong-5aa16.appspot.com/o/banners%2F4195eb66-3119-4e09-9446-e94f1000931fhttps-%3A%3Ai.ibb.co%3AhyZXQPS%3Amobile-popup-front.jpg?alt=media&token=79c3bb50-231c-4805-859c-12f0669c1c9e", "path": "uploads", "filename": "banner.png"}],
-        "target_url": "https://example.com/promotion/count-discount",
+        "target_url": "https://example.com/promotion/count-promotion",
         "banner_category_id": 1,
         "start_date": "2024-11-14T09:00:00Z",
         "end_date": "2024-11-20T09:00:00Z",
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "image_url": [{"url": "https://firebasestorage.googleapis.com/v0/b/jong-5aa16.appspot.com/o/banners%2F4195eb66-3119-4e09-9446-e94f1000931fhttps-%3A%3Ai.ibb.co%3AhyZXQPS%3Amobile-popup-front.jpg?alt=media&token=79c3bb50-231c-4805-859c-12f0669c1c9e", "path": "uploads", "filename": "banner.png"}],
-        "target_url": "https://example.com/popup/popup-store",
+        "target_url": "https://example.com/popup/popup-banner",
         "banner_category_id": 2,
         "start_date": "2024-11-14T09:00:00Z",
         "end_date": "2024-11-20T09:00:00Z",
