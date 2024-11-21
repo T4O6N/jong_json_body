@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name_la": "ນະຄອນຫຼວງວຽງຈັນ",
+        "name_en": "Vientiane Prefecture",
+        "is_active": true,
+        "created_by": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "updated_by": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "name_la": "ຜົ້ງສາລີ",
+        "name_en": "Phongsaly Province",
+        "is_active": true,
+        "created_by": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "updated_by": "8c601c71-1036-4667-837a-79bc61221fdb",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    }
+]

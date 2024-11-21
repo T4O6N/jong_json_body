@@ -2,6 +2,85 @@
     {
         "id": 1,
         "uuid": "1fc9acb9-b56f-4ca4-9dcf-cb8ed937ea06",
+        "owner_type_id": 1,
+        "full_name": "Jonud",
+        "username": "Jonuddy",
+        "password": "12345678",
+        "phone": "2056285082",
+        "email": "jonud@gmail.com",
+        "profile_image": [
+            {
+                "id": 1,
+                "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+                "profile_image": {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/jong-5aa16.appspot.com/o/user_profile%2F1730795405524.jpg?alt=media&token=5c67ac45-966b-4df7-bea8-32007cfaf3ab",
+                    "path": "/v1/profile-image/b7caf870-f09a-4393-a46c-7b2fc77069e6",
+                    "filename": "1730795405524.jpg"
+                  },
+                "is_active": true,
+                "created_at": "2024-11-14T09:00:00Z",
+                "updated_at": "2024-11-14T09:00:00Z"
+            }
+        ],
+        "is_active": true,
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "uuid": "28fb54d5-8037-466e-bd04-caf93560968f",
+        "owner_type_id": 2,
+        "full_name": "Big",
+        "username": "Biggy",
+        "password": "87654321",
+        "phone": "2059302777",
+        "email": "big@gmail.com",
+        "profile_image": [
+            {
+                "id": 2,
+                "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+                "profile_image": {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/jong-5aa16.appspot.com/o/user_profile%2F1730795405524.jpg?alt=media&token=5c67ac45-966b-4df7-bea8-32007cfaf3ab",
+                    "path": "/v1/profile-image/b7caf870-f09a-4393-a46c-7b2fc77069e6",
+                    "filename": "1730795405524.jpg"
+                  },
+                "is_active": true,
+                "created_at": "2024-11-14T09:00:00Z",
+                "updated_at": "2024-11-14T09:00:00Z"
+            }
+        ],
+        "is_active": true,
+        "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
+        "created_at": "2024-11-14T09:00:00Z",
+        "updated_at": "2024-11-14T09:00:00Z"
+    },
+    {
+        "id": 3,
+        "uuid": "7f08ad7b-5fe8-4f4e-af6e-11b0a5fbd7d4",
+        "owner_type_id": 3,
+        "full_name": "Kisun",
+        "username": "Kisunny",
+        "password": "54637289",
+        "phone": "2055446766",
+        "email": "kisun@gmail.com",
+        "profile_image": [
+            {
+                "id": 3,
+                "user_id": "19058d65-2c2d-4039-bd8b-1c43660703a2",
+                "profile_image": {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/jong-5aa16.appspot.com/o/user_profile%2F1730795405524.jpg?alt=media&token=5c67ac45-966b-4df7-bea8-32007cfaf3ab",
+                    "path": "/v1/profile-image/b7caf870-f09a-4393-a46c-7b2fc77069e6",
+                    "filename": "1730795405524.jpg"
+                  },
+                "is_active": true,
+                "created_at": "2024-11-14T09:00:00Z",
+                "updated_at": "2024-11-14T09:00:00Z"
+            }
+        ],
+        "is_active": true,
         "created_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
         "updated_by": "b7caf870-f09a-4393-a46c-7b2fc77069e6",
         "created_at": "2024-11-14T09:00:00Z",
