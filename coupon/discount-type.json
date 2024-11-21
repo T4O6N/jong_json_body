@@ -1,7 +1,6 @@
 [
     {
         "id": 1,
-        "uuid": "e667af02-c875-4172-b6d6-83d0e76bac27",
         "name_la": "ສ່ວນຫຼຸດຈອງເດີ່ນ",
         "name_en": "Court Booking Discount",
         "description": "ສ່ວນຫຼຸດສໍາລັບຈອງເດີ່ນ",
@@ -13,7 +12,6 @@
     },
     {
         "id": 2,
-        "uuid": "fcab708d-7d4d-480b-8b4b-efe529888489",
         "name_la": "ສ່ວນຫຼຸດຊື້ເຄື່ອງ",
         "name_en": "Product Sale Discount",
         "description": "ສ່ວນຫຼຸດສໍາລັບຊື້ເຄື່ອງ",
@@ -25,7 +23,6 @@
     },
     {
         "id": 3,
-        "uuid": "5f1be72a-6525-4c60-8827-625a293af0a2",
         "name_la": "ສ່ວນຫຼຸດຈອງປີ້",
         "name_en": "Ticket Sale Discount",
         "description": "ສ່ວນຫຼຸດສໍາລັບຈອງປີ້",
